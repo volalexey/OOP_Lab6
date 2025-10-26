@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09FBEF27-87AC-4E75-92C1-D631EC3A141B}|TestLab_6\\TestLab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\testlab_6\\testplanetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FBEF27-87AC-4E75-92C1-D631EC3A141B}|TestLab_6\\TestLab_6.csproj|solutionrelative:testlab_6\\testplanetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\lab_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|solutionrelative:lab_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FBEF27-87AC-4E75-92C1-D631EC3A141B}|TestLab_6\\TestLab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\testlab_6\\testplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FBEF27-87AC-4E75-92C1-D631EC3A141B}|TestLab_6\\TestLab_6.csproj|solutionrelative:testlab_6\\testplanet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\lab_6\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|solutionrelative:lab_6\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\lab_6\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|solutionrelative:lab_6\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_6\\lab_6\\planettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454E8DD3-39C4-4EE7-8A3A-22653D4D2E36}|Lab_6\\Lab_6.csproj|solutionrelative:lab_6\\planettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPlanetManager.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\TestLab_6\\TestPlanetManager.cs",
+              "RelativeDocumentMoniker": "TestLab_6\\TestPlanetManager.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\TestLab_6\\TestPlanetManager.cs",
+              "RelativeToolTip": "TestLab_6\\TestPlanetManager.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:47:38.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestPlanet.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\TestLab_6\\TestPlanet.cs",
+              "RelativeDocumentMoniker": "TestLab_6\\TestPlanet.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\TestLab_6\\TestPlanet.cs",
+              "RelativeToolTip": "TestLab_6\\TestPlanet.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAYwGABAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:15:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Lab_6\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\InputHelper.cs",
+              "RelativeToolTip": "Lab_6\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:15:11.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanetType.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\PlanetType.cs",
+              "RelativeDocumentMoniker": "Lab_6\\PlanetType.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\PlanetType.cs",
+              "RelativeToolTip": "Lab_6\\PlanetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:14:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\Planet.cs",
+              "RelativeDocumentMoniker": "Lab_6\\Planet.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\Planet.cs",
+              "RelativeToolTip": "Lab_6\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:14:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_6\\Program.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_6\\Lab_6\\Program.cs",
+              "RelativeToolTip": "Lab_6\\Program.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAADgv6sBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:14:14.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
